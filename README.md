@@ -28,3 +28,20 @@ Install with pip:
 
 ```bash
 pip install openai python-dotenv
+```
+
+Run py file with python:
+```bash
+python first_call.py
+```
+
+Example: 
+```bash
+Welcome to the OpenAI API!
+Please enter your question or request: What is the capital of Japan?
+
+Response from OpenAI:
+--------------------------------------------------
+The capital of Japan is Tokyo.
+--------------------------------------------------
+total tokens used: 27
